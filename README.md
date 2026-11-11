@@ -210,6 +210,6 @@ Run the cells from top to bottom.
 **Abhishek Pal**
 
 - GitHub: [@abhishekpal8146](https://github.com/abhishekpal8146)
-- LinkedIn: Abhishek Pal
+- LinkedIn: [Abhishek Pal](https://www.linkedin.com/in/abhishek-pal-b5288b410/)
 
 If you find this project useful, feel free to explore the notebook and share feedback.
