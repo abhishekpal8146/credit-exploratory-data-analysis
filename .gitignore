@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+sdist/
+wheels/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter / IPython checkpoint files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+checkpoint
+
+# Matplotlib / seaborn saved figure exports (generated, not source assets)
+*.png
+*.svg
+*.pdf
+
+# Notebook execution scratch files (copies made during verification)
+executed_*.ipynb
+*-checkpoint.ipynb
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+.cache/

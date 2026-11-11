@@ -1,0 +1,16 @@
+# Runtime dependencies for CEDA.ipynb (Python 3.10+)
+#
+# Verified by executing the notebook end to end with these packages.
+# Versions below are the ones recorded in the last successful execution;
+# they are lower bounds that reproduce the published results.
+
+pandas>=2.2,<2.3
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+ucimlrepo>=0.0.7
+ipywidgets>=8.1
+
+# Jupyter kernel needed to run the notebook locally.
+# In Google Colab these are already present.
+ipykernel>=6.29
